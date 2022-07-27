@@ -47,6 +47,4 @@ const calcAverage = function (arr) {
 
 console.log(calcAverage(totals));
 
-("use strict");
-
-const x = 23;
+// TODO FIXME
